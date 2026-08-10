@@ -31,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/arslaanalam700-web/dsa/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arslaanalam700-web/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arslaanalam700-web/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/arslaanalam700-web/dsa/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
