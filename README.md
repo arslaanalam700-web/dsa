@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arslaanalam700-web/dsa/tree/master/0011-container-with-most-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/arslaanalam700-web/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/arslaanalam700-web/dsa/tree/master/0283-move-zeroes) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arslaanalam700-web/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arslaanalam700-web/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arslaanalam700-web/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arslaanalam700-web/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
 |  |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arslaanalam700-web/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arslaanalam700-web/dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arslaanalam700-web/dsa/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
