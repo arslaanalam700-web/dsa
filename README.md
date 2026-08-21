@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arslaanalam700-web/dsa/tree/master/0002-add-two-numbers) |
 | [1510-stone-game-iv](https://github.com/arslaanalam700-web/dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/arslaanalam700-web/dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/arslaanalam700-web/dsa/tree/master/2029-stone-game-ix) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/arslaanalam700-web/dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arslaanalam700-web/dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arslaanalam700-web/dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
