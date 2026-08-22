@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arslaanalam700-web/dsa/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/arslaanalam700-web/dsa/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/arslaanalam700-web/dsa/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arslaanalam700-web/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arslaanalam700-web/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/arslaanalam700-web/dsa/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/arslaanalam700-web/dsa/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arslaanalam700-web/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arslaanalam700-web/dsa/tree/master/0018-4sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/arslaanalam700-web/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/arslaanalam700-web/dsa/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/arslaanalam700-web/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/arslaanalam700-web/dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/arslaanalam700-web/dsa/tree/master/2029-stone-game-ix) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/arslaanalam700-web/dsa/tree/master/0018-4sum) |
+| [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arslaanalam700-web/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String Matching
 |  |
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arslaanalam700-web/dsa/tree/master/0002-add-two-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
