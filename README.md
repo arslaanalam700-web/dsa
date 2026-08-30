@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/arslaanalam700-web/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/arslaanalam700-web/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/arslaanalam700-web/dsa/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/arslaanalam700-web/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arslaanalam700-web/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arslaanalam700-web/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/arslaanalam700-web/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/arslaanalam700-web/dsa/tree/master/1652-defuse-the-bomb) |
 | [1872-stone-game-viii](https://github.com/arslaanalam700-web/dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/arslaanalam700-web/dsa/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/arslaanalam700-web/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arslaanalam700-web/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arslaanalam700-web/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arslaanalam700-web/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
