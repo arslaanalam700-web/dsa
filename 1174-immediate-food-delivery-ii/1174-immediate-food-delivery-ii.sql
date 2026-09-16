@@ -1,16 +1,10 @@
-SELECT
-    ROUND(
-        100.0 * SUM(order_date = customer_pref_delivery_date) / COUNT(*),
-        2
-    ) AS immediate_percentage
-FROM (
-    SELECT
-        order_date,
-        customer_pref_delivery_date,
-        ROW_NUMBER() OVER (
-            PARTITION BY customer_id
-            ORDER BY order_date
-        ) AS rn
+SELECT ROUND(
+    100 * AVG(order_date = customer_pref_delivery_date),
+    2
+) AS immediate_percentage
+FROM Delivery
+WHERE (customer_id, order_date) IN (
+    SELECT customer_id, MIN(order_date)
     FROM Delivery
-) t
-WHERE rn = 1;
+    GROUP BY customer_id
+);
