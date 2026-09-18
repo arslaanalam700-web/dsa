@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/arslaanalam700-web/dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arslaanalam700-web/dsa/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/arslaanalam700-web/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arslaanalam700-web/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/arslaanalam700-web/dsa/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/arslaanalam700-web/dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/arslaanalam700-web/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arslaanalam700-web/dsa/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/arslaanalam700-web/dsa/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arslaanalam700-web/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/arslaanalam700-web/dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/arslaanalam700-web/dsa/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arslaanalam700-web/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/arslaanalam700-web/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/arslaanalam700-web/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arslaanalam700-web/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arslaanalam700-web/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arslaanalam700-web/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arslaanalam700-web/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/arslaanalam700-web/dsa/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/arslaanalam700-web/dsa/tree/master/0455-assign-cookies) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/arslaanalam700-web/dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arslaanalam700-web/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String Matching
 |  |
